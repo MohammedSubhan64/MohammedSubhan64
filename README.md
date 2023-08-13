@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammed Subhan</h1>
+<h1 align="left">Hi 👋, I'm Mohammed Subhan</h1>
 <h3 align="left">A passionate software developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="center" alt="Coding" width="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 <h3 align="left">📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
