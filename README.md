@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/mohammedsubhan64" target="blank">
  <img align="center" <img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
 </a>
-
+</p>
 <!-- <div>
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
