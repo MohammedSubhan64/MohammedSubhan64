@@ -12,8 +12,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohdsubhan64" target="blank"><div align="center">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div></a>
-<a href="https://instagram.com/mohd.subhan64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd.subhan64" height="30" width="40" /></a>
+</a>
+<a href="https://instagram.com/mohd.subhan64" target="blank">
+   <img align="center" <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
 <a href="https://www.hackerrank.com/mohammedsubhan64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammedsubhan64" height="30" width="40" /></a>
 </p>
 <!-- <div>
