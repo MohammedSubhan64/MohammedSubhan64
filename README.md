@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohdsubhan64" target="blank"><div align="center">
+<a href="https://linkedin.com/in/mohdsubhan64" target="blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://instagram.com/mohd.subhan64" target="blank">
