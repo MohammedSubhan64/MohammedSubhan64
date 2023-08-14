@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohammed Subhan</h1>
-    <h4 align="left">A passionate software developer from India</h4>
+<h4 align="left">A passionate software developer from India</h4>
     
-    - 📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a>
+- 📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a>
     
     <h3 align="left">Connect with me:</h3>
     <p align="left">
