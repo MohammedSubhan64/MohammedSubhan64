@@ -33,3 +33,10 @@
 - 💬 Ask me about React
 
 <h3 align="left">📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a></h3>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</p>
+
