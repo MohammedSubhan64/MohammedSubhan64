@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Mohammed Subhan</h1>
 <h4 align="left">A passionate Full Stack Web Developer from India</h4>
-
+- 📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -27,5 +27,5 @@
 <a href="https://www.hackerrank.com/mohammedsubhan64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammedsubhan64" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a>
+
     
