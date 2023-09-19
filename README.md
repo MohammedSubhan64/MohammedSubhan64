@@ -40,4 +40,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="django" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
 </p>
-<img src="[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkm_REUtZNFuOQSmCiofMrLticvVSwuZcc4VbafbFb9g&s)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkm_REUtZNFuOQSmCiofMrLticvVSwuZcc4VbafbFb9g&s"  />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkm_REUtZNFuOQSmCiofMrLticvVSwuZcc4VbafbFb9g&s)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkm_REUtZNFuOQSmCiofMrLticvVSwuZcc4VbafbFb9g&s"  />
