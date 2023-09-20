@@ -1,10 +1,10 @@
 <h1 align="left">Hi there, I'm Mohammed Subhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <!-- <h3>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h3> -->
 
- <h3 align="left" >A passionate Software developer from India</h3> 
-<div style="display:inline-block;">
-<div align="left">
+<h3 align="left" >A passionate Software developer from India</h3> 
 
+<div align="left">
+<div align="left">
 
 <!-- <div>
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -22,9 +22,7 @@
 
 </div>
 
- </div>
-
-<h3 align="left">📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a></h3>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohdsubhan64" target="blank">
@@ -39,6 +37,9 @@
  <img align="center" <img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
 </a>
 </p>
+
+<h3 align="left">📫 How to reach me <a href = "mailto: mohdsubhan2764@gmail.com" >mohdsubhan2764@gmail.com</a></h3>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
