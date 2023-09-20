@@ -4,11 +4,9 @@
 <h3 align="left" >A passionate Software developer from India</h3> 
 
 <div align="left">
-<div align="left">
-
-<!-- <div>
+<div>
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
+</div> 
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning React
@@ -16,13 +14,6 @@
 - 💬 Ask me about React
 </div>
 
-<div align="center">
-
-<img align="center" alt="Coding" width="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-
-</div>
-
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohdsubhan64" target="blank">
@@ -52,4 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
+<div align="right">
+<img align="center" alt="Coding" width="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+
+</div>
 <!-- <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  /> -->
