@@ -1,13 +1,8 @@
 <h1 align="left">Hi there, I'm Mohammed Subhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-<!-- <h3>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h3> -->
-
 <h3 align="left" >A passionate Software developer from India</h3> 
-
-<div align="left">
-   <div>
 <img 
 src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="250"/>
-</div>
+<div align="left">
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on My projects
