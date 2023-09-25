@@ -9,7 +9,7 @@
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
-- 🔭 I’m currently working on Full Stack Development
+- 🔭 I’m currently working on Full Stack Development using django
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on My projects
 - 💬 Ask me about React
