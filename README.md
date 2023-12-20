@@ -9,10 +9,10 @@
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
-- 🔭 I’m currently working on Python Full Stack Development 
+- 🔭 I’m currently working on Python Full Stack Development and Machine Learning
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on My projects
-- 💬 Ask me about React
+- 💬 Ask me about python
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohdsubhan64" target="blank">
