@@ -11,7 +11,7 @@
 </div> -->
 
 - 🔭 I’m currently working on Python Full Stack Development and Machine Learning
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python Full Stack 
 - 👯 I’m looking to collaborate on My projects
 - 💬 Ask me about python
 <h3 align="left">Connect with me:</h3>
