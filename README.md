@@ -10,7 +10,7 @@
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
-- 🔭 I’m currently working on Python Full Stack Development and Machine Learning
+- 🔭 I’m currently working on Python and Machine Learning
 - 🌱 I’m currently learning Python Full Stack 
 - 👯 I’m looking to collaborate on My projects
 - 💬 Ask me about python
