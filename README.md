@@ -10,10 +10,10 @@
      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
-- 🔭 I’m currently working on Python and Machine Learning
-- 🌱 I’m currently learning Data Science 
+- 🔭 I’m currently working on Python and AI
+- 🌱 I’m currently learning Gen AI 
 - 👯 I’m looking to collaborate on My projects
-- 💬 Ask me about python
+- 💬 Ask me about Python, Data Science and ML 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohdsubhan64" target="blank">
